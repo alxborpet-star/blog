@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="blog/blog.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
